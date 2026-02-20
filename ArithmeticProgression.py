@@ -1,4 +1,4 @@
-#This is an expansion to Carl Friedrich Gauss's method to work for any k (k ∈ R, k ∈ C)'
+#This is an expansion to Carl Friedrich Gauss's method to work for any k ≠ 0 (k ∈ R, k ∈ C)'
 
 n, s = 1, 1
 
